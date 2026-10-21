@@ -10,7 +10,8 @@ public class Program
         Console.WriteLine();
         string ColorBalls = Console.ReadLine();
 
-        //исправляем ребятки
+        //вот такая фигня собачка
+
         int numberBalls = int.Parse(NumberBalls);
     }
 }
